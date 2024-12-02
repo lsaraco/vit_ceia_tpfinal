@@ -22,8 +22,8 @@ El desempeño del modelo ajustado se evalúa utilizando métricas basadas en CLI
 
 > El trabajo fue desarrollado en la plataforma Google Colab: https://colab.research.google.com/drive/1OMaSafYw9n4427QBn-sU5RV0k4FVfgfO?authuser=1#scrollTo=vQxtZccZCpxM
 
-- [Notebook]()
-- [Informe técnico]()
-- [Presentación]()
+- [Notebook](https://github.com/lsaraco/vit_ceia_tpfinal/blob/main/notebooks/TP_Final_VIT_generacion_imagenes.ipynb)
+- [Informe técnico](https://github.com/lsaraco/vit_ceia_tpfinal/blob/main/docs/Informe.pdf)
+- [Presentación](https://github.com/lsaraco/vit_ceia_tpfinal/blob/main/docs/Presentacion.pdf)
 
 
