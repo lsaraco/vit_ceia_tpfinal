@@ -1,6 +1,6 @@
 # Trabajo Final: Generación de texto a partir de imágenes (ViT - CEIA)
 
-![Generación de imágenes bajo el prompt "A boy practicing martial arts"](output_sample.png)
+![Generación de imágenes bajo el prompt "A boy practicing martial arts"](https://github.com/lsaraco/vit_ceia_tpfinal/blob/main/docs/output_sample.png?raw=true)
 _Generación de una imágen bajo el prompt "A boy practicing martial arts", luego de realizar fine-tuning para adaptar el estilo._
 
 Desarrollado durante noviembre y diciembre de 2024 para la materia Vision Transformers de la CEIA. Facultad de Ingeniería de Buenos Aires.
